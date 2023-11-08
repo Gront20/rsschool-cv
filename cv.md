@@ -11,8 +11,8 @@ email: grontgront@gmail.com <br/>
 I am 23 years old. At the moment I am a student of the graduate course of the Physics Department of the Belarusian State University. My specialty is Nuclear Physics and Technology. I also work at the Department of Solid State Physics at the Scientific Research Laboratory of Physics of Ion-Plasma Modifications of Solids as an intern junior researcher. I am engaged in research in the field of radiation solid state physics, and I also write application software for this area. I also work as a programmer in the center of radio engineering, where I also do mathematical modeling in radio physics and radar systems. As for my goals and aspirations: I would like to become a unique specialist capable of solving non-trivial technical problems. I also learn new technologies and methodologies.
 
 # Skills:  
-* Programming languages: C++, SAP ABAP, Python, Matlab, R <br/>
-* Frameworks: Qt, django  <br/>
+* Programming languages: C++, SAP ABAP, Python, Matlab, Java <br/>
+* Frameworks: Qt, django, Spring  <br/>
 * VCS: Git <br/>
 * Db: MS SQL Server, MySQL, SQLite, SAP Hana <br/>
 * Development Tools: Qt creator, C++ Builder,  VsCode, Pycharm <br/>
