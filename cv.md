@@ -38,5 +38,5 @@ I am 23 years old. At the moment I am a student of the graduate course of the Ph
          february 2022 – may 2022 <br/>
          Online courses: codecademy, codewars, leetcode <br/>
 # English: 
-* B1+ <br/>
+* B1 <br/>
 * School with in-depth study of English + university courses. 
