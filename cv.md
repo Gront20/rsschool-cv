@@ -4,7 +4,7 @@ Artem Strechko: <br/><br/>
 ![12](https://user-images.githubusercontent.com/86954020/190753951-49c786f6-c793-4bcf-bfd2-5bf0b9a501b0.jpg)
 # Contact: 
 email: grontgront@gmail.com <br/>
-         linkedin: [Click](linkedin.com/in/artem-strechko-6764141bb) <br/>
+         linkedin: [Click](linkedin.com/in/artem-strechko-6764141bb)  <br/>
          discord: Gront20 <br/>
 
 # Info: 
